@@ -7,6 +7,6 @@ Practice using float and position for structuring web page elements
 Build a clean and organized landing page layout from scratch
 
 🧰 Technologies Used:
-HTML5
+- HTML5.
 
-C
+- CSS3 (float, position, and basic styling).
